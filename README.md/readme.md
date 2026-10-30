@@ -110,3 +110,14 @@ It strengthened my understanding of the data analysis workflow, from raw data pr
 **Tools:** Microsoft Excel | Power BI | DAX
 
 **Author:** Herumb Tomar
+## 📁 Project Files & Downloads
+
+The complete datasets and Power BI dashboard used in this project are available through Google Drive.
+
+### 📊 Excel Datasets
+- [Access Airbnb Listings & Reviews Datasets](https://drive.google.com/drive/folders/1gexzhHFKNHxz7949YoNrULG9WgyYQxpG?usp=drive_link)
+
+### 📈 Power BI Dashboard
+- [Download Global Airbnb Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1oyYEmc5XEfYg1jhdHp6p80c0zVOWeE8t/view?usp=sharing)
+
+**Note:** Large datasets and the Power BI dashboard are hosted on Google Drive due to GitHub file size limitations.
