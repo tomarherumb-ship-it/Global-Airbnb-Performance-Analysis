@@ -119,5 +119,3 @@ The complete datasets and Power BI dashboard used in this project are available 
 
 ### 📈 Power BI Dashboard
 - [Download Global Airbnb Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1oyYEmc5XEfYg1jhdHp6p80c0zVOWeE8t/view?usp=sharing)
-
-**Note:** Large datasets and the Power BI dashboard are hosted on Google Drive due to GitHub file size limitations.
